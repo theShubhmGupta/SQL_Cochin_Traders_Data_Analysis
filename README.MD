@@ -136,9 +136,11 @@ SQL_Cochin_Traders-Data-Analysis/
 
 ## 👤 Author
 
-**Shubham**  
+**Shubham Gupta**  
+
 Aspiring Data Scientist · Building projects across GenAI, SQL, and Python  
-🔗 [GitHub][(https://github.com/theShubhmGupta)], 💼 [LinkedIn][(https://www.linkedin.com/in/theshubhamguptaa/)]
+🔗 [GitHub][(https://github.com/theShubhmGupta)], 
+💼 [LinkedIn][(https://www.linkedin.com/in/theshubhamguptaa/)]
 
 ---
 
